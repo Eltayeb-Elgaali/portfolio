@@ -1,6 +1,6 @@
-# JavaScript Quiz
-
-...
+# Personal Portfolio
+- This is a personal portfolio that developed using javascript on applying asynchronous Programming.
+- The aim of this project is to practice asynchronous Programming by using fetch.
 
 ---
 
@@ -18,26 +18,37 @@
 
 ## 0.Setup
 
+**A User can see my initial repository and live demo**
+
+### Repository
+
+- Created a new repository from this [boilerplate repository](https://github.com/HackYourFutureBelgium/starter-basic-import-export)
+- Clone the repository
+- Add a wireframe
+- Start the development strategy
+- Write initial, basic README
+- Push the changes to GitHub
+- Turn on GitHub Page
+- Put reference to the project in the my personal issue
+
 ---
 
 ## 1. Initialize Application
 
 __As a user I want to see the initial page when I load the site__
 
-- _Given [context] when [a specific action is performed] then [a set of consequences should occur]__
-- ...
-
 ### REPO
 
-- This user story is developed on branch `_`.
+- This user story is developed on branch `initial-application`.
 - This branch is merged to `master` branch after completion.
 
-### Task A
+### HTML
+- Add a Header with one `row` and two columns 4 and 8 width via bootstrap
 
-### Task B
+### CSS
+- Add some styling
 
-### Task ...
+### Assets
+- Add references links and font directory and images
 
 ---
-
-## ...
