@@ -76,3 +76,23 @@ __As a user I want to see the home section when I click on Home__
 ### Assets
 
 ---
+
+## 3. CV
+
+__As a user I want to see the CV section when I click on CV__
+
+### REPO
+
+- This user story is developed on branch `cv-section`.
+- This branch is merged to `master` branch after completion.
+
+### HTML
+
+- Add a `div` containing cv section
+
+### Javascript
+
+
+### Assets
+
+---
