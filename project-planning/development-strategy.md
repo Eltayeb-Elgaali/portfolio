@@ -43,12 +43,36 @@ __As a user I want to see the initial page when I load the site__
 - This branch is merged to `master` branch after completion.
 
 ### HTML
+
 - Add a Header with one `row` and two columns 4 and 8 width via bootstrap
 
 ### CSS
+
 - Add some styling
 
 ### Assets
+
 - Add references links and font directory and images
+
+---
+
+## 2. Home section
+
+__As a user I want to see the home section when I click on Home__
+
+### REPO
+
+- This user story is developed on branch `home-section`.
+- This branch is merged to `master` branch after completion.
+
+### HTML
+
+- Add a `div` containing home section
+
+### Javascript
+
+- Add collapse functionality
+
+### Assets
 
 ---
