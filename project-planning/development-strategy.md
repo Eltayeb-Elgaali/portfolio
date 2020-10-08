@@ -96,3 +96,20 @@ __As a user I want to see the CV section when I click on CV__
 ### Assets
 
 ---
+
+## 4. Portfolio
+
+__As a user I want to see the portfolio section when I click on portfolio__
+
+### REPO
+
+- This user story is developed on branch `portfolio-section`.
+- This branch is merged to `master` branch after completion.
+
+### HTML
+
+- Add a `div` containing portfolio section
+
+### Javascript
+
+---
