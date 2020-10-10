@@ -12,7 +12,7 @@
 
 ## WIREFRAME
 
-![wireframe]()
+![wireframe](../public/assets/images/portfolio.png)
 
 ---
 
@@ -145,5 +145,21 @@ __As a user I want to see repositories when I click on Repositories button__
 ###  CSS
 
 - Add some styling
+
+---
+
+## 6. Contact and Footer
+
+__As a user I want to see contact section__
+
+### REPO
+
+- This user story is developed on branch `contact-footer`.
+- This branch is merged to `master` branch after completion.
+
+
+### HTML
+
+- Add contact and footer divs
 
 ---
