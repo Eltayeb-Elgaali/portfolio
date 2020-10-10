@@ -1,5 +1,8 @@
 import {Repo} from './repo.js'
 
+'use strict';
+
+import { logger } from "../lib/logger.js";
 
 export const getReposHandler = (event) => {
     debugger;
@@ -8,7 +11,9 @@ export const getReposHandler = (event) => {
     .then((res) => {
         res.json()
         .then((repos) => {
-            console.log(repos);
+            logger.push({
+                repositories:repos
+            })
             repos.map(repo =>{
                 const repoObject = new Repo(repo)
                 const view = repoObject.render();
@@ -20,5 +25,6 @@ export const getReposHandler = (event) => {
             
         
         });
-    });
+    })
+    .catch(err => console.error(err));
 }
