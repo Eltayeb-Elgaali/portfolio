@@ -1,4 +1,5 @@
 'use strict';
 
+import {getReposHandler} from './get-repos-handler.js'
 
-console.log('hello');
+document.querySelector('#get-repos').addEventListener('click', getReposHandler)

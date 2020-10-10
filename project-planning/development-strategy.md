@@ -113,3 +113,37 @@ __As a user I want to see the portfolio section when I click on portfolio__
 ### Javascript
 
 ---
+
+## 5. Repositories
+
+__As a user I want to see repositories when I click on Repositories button__
+
+### REPO
+
+- This user story is developed on branch `fetch-repo-data`.
+- This branch is merged to `master` branch after completion.
+
+
+### Javascript
+
+#### Data 
+
+- Add repo class
+
+#### Handler
+
+- Add get-repos-handler script
+
+#### Listener
+
+- Add a listener to repositories button
+
+#### Log
+
+- Log result of parsed response
+
+###  CSS
+
+- Add some styling
+
+---
